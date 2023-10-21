@@ -1,2 +1,2 @@
 # class-docker-app
-Docker App
+Repository for Docker App
